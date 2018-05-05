@@ -1,0 +1,39 @@
+tijao
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/COMMIT_EDITMSG.COMMIT_EDITMSG b/COMMIT_EDITMSG.COMMIT_EDITMSG
+new file mode 100644
+index 0000000..eb70739
+--- /dev/null
++++ b/COMMIT_EDITMSG.COMMIT_EDITMSG
+@@ -0,0 +1,16 @@
++搭建本地git仓库提交github
++
++# --------------
++# Please enter the commit message for your changes. Everything below
++# this paragraph is ignored, and an empty message aborts the commit.
++# Just close the window to accept your message.
++diff --git a/README.md b/README.md
++index 3e3839c..f6e6417 100644
++--- a/README.md
+++++ b/README.md
++@@ -1 +1,2 @@
++-# project
++\ No newline at end of file
+++# project
+++sublime text 3 git 环境搭建
++\ No newline at end of file
+\ No newline at end of file
+diff --git a/README.md b/README.md
+index f6e6417..9af6acf 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+ # project
+-sublime text 3 git 环境搭建
+\ No newline at end of file
++sublime text 3 git 环境搭建 hah
+\ No newline at end of file
