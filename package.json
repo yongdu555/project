@@ -1,0 +1,25 @@
+{
+  "name": "webpack_sample_project",
+  "version": "1.0.0",
+  "description": "this is test webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongdu555/project.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "duyong555",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongdu555/project/issues"
+  },
+  "homepage": "https://github.com/yongdu555/project#readme",
+  "devDependencies": {
+    "webpack": "^4.15.1"
+  }
+}
